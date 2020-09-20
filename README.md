@@ -1,6 +1,6 @@
-# Quasar App (05-quasar-formularios)
+# Quasar App (07-quasar-formularios)
 
-A Quasar Framework app
+Projeto de exemplo com formulário e validações da vídeo aula do curso de Quasar Framework.
 
 ## Install the dependencies
 ```bash
@@ -10,11 +10,6 @@ yarn
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
 ```bash
 quasar dev
-```
-
-### Lint the files
-```bash
-yarn run lint
 ```
 
 ### Build the app for production
